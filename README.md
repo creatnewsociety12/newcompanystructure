@@ -13,6 +13,8 @@ In these countries with imperfect legal system, business owners or business lead
   
   Under normal circumstances, the company will give a large amount of compensation to employees when they are dismissed. However, in some countries, there is such a situation in the law. When employees voluntarily apply for resignation, the company does not need to make any compensation. This leaves a loophole for the company to bully and squeeze its employees. When the company wants to dismiss an employee, the company's leaders often take very despicable behaviors, such as finding out various reasons to increase the work intensity of an employee, naming and criticizing the employee at the meeting, secretly directing other employees not to cooperate with the employee's work, leading to his low work efficiency, and so on.
 
+  Under normal circumstances, the company will give a large amount of compensation to employees when they are dismissed. However, in some countries, there is such a situation in the law. When employees voluntarily apply for resignation, the company does not need to make any compensation. This leaves a loophole for the company to bully and squeeze its employees. When the company wants to dismiss an employee, the company's leaders often take very despicable behaviors, such as finding out various reasons to increase the work intensity of an employee, naming and criticizing the employee at the meeting, secretly directing other employees not to cooperate with the employee's work, leading to his low work efficiency, and so on.
+  
   
   
 #chinese:  
@@ -27,6 +29,8 @@ In these countries with imperfect legal system, business owners or business lead
 在这些法制不健全的国家里，企业主或者企业的领导们几乎可以随意废弃劳动合同（这在欧美民主国家几乎是无法想象的事情），当你对这些老板提出抗议，去法院上诉他们的时候，老板们会摆出一副无所谓的态度，他会想，随便你去上诉吧，我顶多没有支付你一两个月的薪水，然而你去上诉需要请律师，开庭审理，这需要非常多的钱和时间，远比我欠你的薪水多得多。很多员工再三选择之下，最终忍气吞声离开。
   
   在通常状况下，企业辞退员工会给员工一大笔补偿，然而在一些国家的法律里却存在这么一种情况，当员工主动申请离职，公司无需做出任何补偿。这样就留给公司一个欺负压榨员工的漏洞。当公司想辞退某位员工时候，公司领导往往会采取非常卑鄙无耻的行为，比如找出各种理由给某个员工增加工作强度，在会议上点名批评这位员工，暗中指使其他员工不配合这位员工的工作，导致他工作效率低下，等诸如此类的行为。
+  
+  这一切的做法都是公司领导刻意安排的，目的就是逼迫这位员工主动离职，从而公司不用支付任何赔偿。
   
   
 
