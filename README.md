@@ -35,6 +35,8 @@ In these countries with imperfect legal system, business owners or business lead
   
   Some people ask, what if the boss doesn't put money into the platform at first? In the future, all companies must use this platform, otherwise employees will not go to work in this company, which is so simple. Everyone interviews a company. The first thing they check is the company's platform number, company funds, shareholders, shares, monthly salary, number of employees, positions, working hours, all clearly written on the blockchain data of the platform. This will lead to Darwin's natural elimination of the fittest. Companies that dare not use the platform have no one to interview, and companies with good platform data will get better employees.
   
+  For example, when the company has a system of working hours of 8 hours a day and no more than 40 hours a week. If the company's management violates this regulation and asks employees to work overtime, the employees below can vote to sanction the leader, demote him or her, and reduce his or her salary. This also solves a long-term problem of forced overtime. For example, before that, Chinese employees launched the 996 ICU campaign (996. ICU) on GitHub.
+
   
   
   
@@ -73,5 +75,7 @@ In these countries with imperfect legal system, business owners or business lead
   当某位领导被投票选举下台后，却依然在公司里以管理者身份出现，员工就可以发起投票，对他制裁，严重的可以开除出公司，每个月平台不再给他的账户地址转入月薪。平台里也去掉他作为公司在职员工的记录，从而让他实质性的离开公司（甚至可以让门禁读取区块链数据，不给已经离职的员工开门）。
   
   有些人会问，如果老板开始就不往平台里注入资金怎么办？以后所有的公司都必须用这个平台，否则员工就不会去这家公司上班，就这么简单。每个人去面试一家公司，首先查看的就是这家公司的平台号码，公司资金，股东人员，股份情况，月薪情况，员工数量，岗位情况，工作时间，全部在平台的区块链数据上写的清清楚楚。这将会造成优胜劣汰的达尔文自然淘汰情况，不敢使用平台的公司没人去面试，平台数据良好的公司会得到更优秀的员工。
+  
+  比如，当公司制定每天工作时间是8小时，每周不超过40小时的制度条例。如果公司管理层违背了这个条例，让员工加班，底下员工可以发起投票，对该领导制裁，降职，降薪等一系列手段。这也就解决了长期困扰员工的一个强制加班问题。比如在此之前中国的员工在github上发起了996ICU运动（996.icu）。
   
   
