@@ -49,6 +49,9 @@ In these countries with imperfect legal system, business owners or business lead
   
   Perhaps some people will ask, when the company system platform of the fund for 0 how to do, the company can not pay wages how to do? All employees will vote to decide whether to dissolve the company. When it is unanimously approved, the company will be dissolved automatically. If it is not unanimously approved, those who vote against will vote whether they are willing to continue to work through the existing shares of the company. Employees will only receive shares each month, but no monthly salary. The remaining employees who are willing to take only shares of the company will stay for work. If the company comes back from the dead, they will get rich rewards. Of course, the company may go bankrupt later, without any reward. High return also means high risk.
   
+  Many job seekers feel that they are very suitable for a company's position, but now the backward recruitment mechanism of the company determines whether you are employed only by some individuals who have the power of the company, such as the boss, administrative personnel, etc. In a future company, anyone can come for an interview. You just need to make a speech in front of all the people in the company. When most of the company members vote for you, you will automatically enter the probation period of the company. After the probation period, all the employees will vote to determine whether to officially hire you as a regular employee (if it is a school, students can also participate in the voting, and students also learn to Members of the school).
+  
+  
   
   
 #chinese:  
@@ -101,3 +104,7 @@ In these countries with imperfect legal system, business owners or business lead
   每一位员工在未满永久聘用的时间内，只能遭遇两次辞退投票，每次间隔不小于3年，当两次都未通过后，该员工将被永久录用。
   
   或许有人会问，当公司系统平台里的资金为0该怎么办，公司发不出工资了怎么办？所有员工会发起投票表决，是否解散公司，当一致通过后，公司自动解散，当没有一致通过，投反对票的人表决是否愿意通过公司现有的股份来继续工作，员工每个月将只能领取股份，而没有月薪。剩下愿意只拿公司股份的员工，将留下工作。如果公司起死回生，他们将得到丰厚的回报，当然，公司也有可能以后接着倒闭，自己没有任何报酬。高回报也意味着高风险。
+  
+  很多求职者觉得自己非常适合某个公司的岗位，但是现在落后的公司招聘机制，决定你是否被录用的只是某些个别掌握公司权力的人，比如老板，行政人员等。将来的公司，任何人都可以来面试，你只需要当着该公司所有人进行演讲，当大部分公司成员投票认可你的时候，你就自动进入公司试用期，当过了试用期后，所有员工再投票表决是否正式录用你为正式员工（如果是学校的话，可以让学生也参与表决，学生也是学校的成员）。
+  
+  
