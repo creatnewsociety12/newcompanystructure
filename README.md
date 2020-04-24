@@ -19,6 +19,8 @@ In these countries with imperfect legal system, business owners or business lead
   
   In these enterprises, the employees are just the servants of the boss. When you are young, capable and valuable, the boss will greet you with a smile. However, when you are old, they will immediately and mercilessly drive you away, just like a dog who has been watching the door for more than ten years but can't move.
   
+  In many companies, employees dare not argue with the boss or the leader. In these companies, the boss is the biggest dictator. What he said cannot be refuted by anyone, or even have a little different view. When you disagree with your boss or a senior official in public, these leaders will scold you loudly or even threaten to dismiss you. Such a company will only drive away capable employees and leave behind incompetent employees who are flattering and sweet talking. The behaviors of the bosses and leaders of these companies not only hurt the employees with integrity and ability, but also damage the long-term development of their own companies. In such a company, every employee is afraid to innovate and express their own opinions or opinions, because they don't know whether their ideas are consistent with the company's boss. Such a company has no future.
+  
   
   
   
@@ -42,4 +44,6 @@ In these countries with imperfect legal system, business owners or business lead
   
   在这些企业里，员工只是老板的奴仆，当你年轻能干有利用价值时候，老板对你笑脸相迎，然而当你老了，他们会立马毫不留情的赶走你，就像赶走一条看门十几年却走不动路的狗一样。
 
+  很多公司，员工不敢与老板或者领导争论，在这些公司里，老板就是最大的独裁者，他说的话不能有任何人反驳，甚至是有一点点不同的看法。当你当众对老板或者某位高官提出不同的意见后，这些领导者会大声斥责你，甚至威逼开除你。这样的公司只会赶走有能力的员工，留下阿谀奉承，只会说甜言蜜语的无能员工。这些公司的老板和领导的行为，既伤害了正直有能力的员工，又损害了自己公司长远的发展。在这样的公司里，每个员工都不敢有创新，不敢发表自己的看法或者见解，因为他们不知道自己的想法是否和公司老板一致。这样的公司没有任何前途。
+  
   
