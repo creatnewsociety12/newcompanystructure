@@ -13,7 +13,9 @@ In these countries with imperfect legal system, business owners or business lead
   
   Under normal circumstances, the company will give a large amount of compensation to employees when they are dismissed. However, in some countries, there is such a situation in the law. When employees voluntarily apply for resignation, the company does not need to make any compensation. This leaves a loophole for the company to bully and squeeze its employees. When the company wants to dismiss an employee, the company's leaders often take very despicable behaviors, such as finding out various reasons to increase the work intensity of an employee, naming and criticizing the employee at the meeting, secretly directing other employees not to cooperate with the employee's work, leading to his low work efficiency, and so on.
 
-  Under normal circumstances, the company will give a large amount of compensation to employees when they are dismissed. However, in some countries, there is such a situation in the law. When employees voluntarily apply for resignation, the company does not need to make any compensation. This leaves a loophole for the company to bully and squeeze its employees. When the company wants to dismiss an employee, the company's leaders often take very despicable behaviors, such as finding out various reasons to increase the work intensity of an employee, naming and criticizing the employee at the meeting, secretly directing other employees not to cooperate with the employee's work, leading to his low work efficiency, and so on.
+  All these measures are deliberately arranged by the company's leaders to force the employee to leave voluntarily, so that the company does not have to pay any compensation.
+  
+  
   
   
   
