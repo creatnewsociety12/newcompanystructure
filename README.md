@@ -51,6 +51,7 @@ In these countries with imperfect legal system, business owners or business lead
   
   Many job seekers feel that they are very suitable for a company's position, but now the backward recruitment mechanism of the company determines whether you are employed only by some individuals who have the power of the company, such as the boss, administrative personnel, etc. In a future company, anyone can come for an interview. You just need to make a speech in front of all the people in the company. When most of the company members vote for you, you will automatically enter the probation period of the company. After the probation period, all the employees will vote to determine whether to officially hire you as a regular employee (if it is a school, students can also participate in the voting, and students also learn to Members of the school).
   
+  This new way of working is the way blockchain will bring to human beings in the future. When we carefully observe, this way does not change the existing operation mode of the company. The employees still work in the previous offices or schools and other institutions, and each month they are paid according to the grade. However, this model changes the way people connect with each other. It's like Uber's taxi software has changed the taxi industry. It hasn't changed the car itself, changed the car with four wheels into five wheels, or added another steering wheel. The taxi is still the previous taxi, and what it has changed is the contact between the car and the person. It's also similar to the new invention in China, shared bicycle. It only changes the relationship between people and bicycles. This new mode of corporate structure will bring new changes to the whole human being and bring human beings into a new civilized society.
   
   
   
@@ -106,5 +107,7 @@ In these countries with imperfect legal system, business owners or business lead
   或许有人会问，当公司系统平台里的资金为0该怎么办，公司发不出工资了怎么办？所有员工会发起投票表决，是否解散公司，当一致通过后，公司自动解散，当没有一致通过，投反对票的人表决是否愿意通过公司现有的股份来继续工作，员工每个月将只能领取股份，而没有月薪。剩下愿意只拿公司股份的员工，将留下工作。如果公司起死回生，他们将得到丰厚的回报，当然，公司也有可能以后接着倒闭，自己没有任何报酬。高回报也意味着高风险。
   
   很多求职者觉得自己非常适合某个公司的岗位，但是现在落后的公司招聘机制，决定你是否被录用的只是某些个别掌握公司权力的人，比如老板，行政人员等。将来的公司，任何人都可以来面试，你只需要当着该公司所有人进行演讲，当大部分公司成员投票认可你的时候，你就自动进入公司试用期，当过了试用期后，所有员工再投票表决是否正式录用你为正式员工（如果是学校的话，可以让学生也参与表决，学生也是学校的成员）。
+  
+  这种新的工作方式，就是未来区块链为人类带来的工作方式。当我们仔细观察，这种方式并没有改变现有的公司运作模式，员工还是在之前的办公室或者学校等机构工作，每个月也是拿着符合等级的薪水。然而这种模式改变的是人与人之间的连接方式。这就像Uber这款打车软件改变了出租车行业， 它并没有改变汽车本身，没有让4个轮子的车子变成5个轮子，也没有多增加一个方向盘进去，出租车还是以前的出租车，它改变的是车与人之间的联系方式。这也类似在中国所诞生的新发明，共享单车。它改变的只是人和自行车之间的关系。这种新的公司架构模式，将给全人类带来新的变化，让人类进入一个新的文明社会。
   
   
