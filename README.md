@@ -17,6 +17,8 @@ In these countries with imperfect legal system, business owners or business lead
   
   A lot of entrepreneurs promise to distribute shares to every employee in the future when they set up the company. Entice employees to work for him with very high returns. However, when the company grew, it used all mean means to eliminate its former employees. They can use the method of making fake accounts to create a situation in which the company is not profitable or has little profit (however, these bosses and managers have even bought villas and yachts), resulting in very little return for entrepreneurial employees, especially in some countries with imperfect legal system.
   
+  In these enterprises, the employees are just the servants of the boss. When you are young, capable and valuable, the boss will greet you with a smile. However, when you are old, they will immediately and mercilessly drive you away, just like a dog who has been watching the door for more than ten years but can't move.
+  
   
   
   
@@ -38,6 +40,6 @@ In these countries with imperfect legal system, business owners or business lead
   
   非常多的创业老板们，他们成立公司那一刻，许诺给每一位员工将来分配股份。用非常高额的回报诱惑员工去他那里工作。然而当这家公司发展壮大后，就用一切卑鄙的手段剔除曾经的创业员工。他们可以采用做假账的方法制造出公司不盈利或者盈利很少的局面（然而这些老板和管理者甚至都已经买了别墅和游艇），导致创业员工只得到非常少的回报，这在一些法制不健全的国家尤为明显。
   
-  
+  在这些企业里，员工只是老板的奴仆，当你年轻能干有利用价值时候，老板对你笑脸相迎，然而当你老了，他们会立马毫不留情的赶走你，就像赶走一条看门十几年却走不动路的狗一样。
 
   
