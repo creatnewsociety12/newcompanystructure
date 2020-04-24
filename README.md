@@ -29,7 +29,7 @@ In these countries with imperfect legal system, business owners or business lead
 
   When the company's managers make a decision, it must be made by all the employees of the company, so as to avoid the managers' wrong behavior endangering the healthy development of the company, thus affecting the work and life stability of every employee.
   
-  In the platform, every employee can vote for the company's leaders or systems. When a leader squeezes and bullies an employee, everyone can vote for him to step down. Write the corresponding voting results in the blockchain to lower the level of the leader, and the monthly salary of the digital currency sent to him by the platform every month will also be reduced accordingly. All these operations can't be interfered with, just like we can't think of one reason to interfere with bitcoin trading.
+  In the platform, every employee can vote for the company's leaders or systems. When a leader squeezes and bullies an employee, everyone can vote for him to step down. Write the corresponding voting results in the blockchain to lower the level of the leader, and the monthly salary of the digital currency sent to him by the platform every month will also be reduced accordingly.  All these operations can not be interfered by human beings, just like the reason that the bitcoin transaction cannot be interfered by human beings.
   
   When a leader is elected to step down, but still appears as a manager in the company, employees can vote, punish him, and even dismiss him from the company. The platform will not transfer his account address into monthly salary every month. The platform also removes his record as an employee of the company, so that he can leave the company substantially.
   
