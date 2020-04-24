@@ -31,7 +31,7 @@ In these countries with imperfect legal system, business owners or business lead
   
   In the platform, every employee can vote for the company's leaders or systems. When a leader squeezes and bullies an employee, everyone can vote for him to step down. Write the corresponding voting results in the blockchain to lower the level of the leader, and the monthly salary of the digital currency sent to him by the platform every month will also be reduced accordingly.  All these operations can not be interfered by human beings, just like the reason that the bitcoin transaction cannot be interfered by human beings.
   
-  When a leader is elected to step down, but still appears as a manager in the company, employees can vote, punish him, and even dismiss him from the company. The platform will not transfer his account address into monthly salary every month. The platform also removes his record as an employee of the company, so that he can leave the company substantially.
+  When a leader is elected to step down, but still appears as a manager in the company, employees can vote, punish him, and even dismiss him from the company. The platform will not transfer his account address into monthly salary every month. The platform also removes his record as an employee of the company, so that he can leave the company substantially(or even let the access control read the blockchain data, not open the door to the employees who have already left).
   
   
   
@@ -67,5 +67,5 @@ In these countries with imperfect legal system, business owners or business lead
 
   在平台里，每一位员工都可以发起对公司领导或者制度的投票，当某一位领导压榨员工，欺负员工，大家可以通过投票的方式，让他下台。在区块链里写入对应的投票结果，让该领导降低等级，每个月平台发送给他的数字货币月薪也相应减少。这一切操作不可人为干预，就像不能认为干预比特币交易一个道理。
 
-  当某位领导被投票选举下台后，却依然在公司里以管理者身份出现，员工就可以发起投票，对他制裁，严重的可以开除出公司，每个月平台不再给他的账户地址转入月薪。平台里也去掉他作为公司在职员工的记录，从而让他实质性的离开公司。
+  当某位领导被投票选举下台后，却依然在公司里以管理者身份出现，员工就可以发起投票，对他制裁，严重的可以开除出公司，每个月平台不再给他的账户地址转入月薪。平台里也去掉他作为公司在职员工的记录，从而让他实质性的离开公司（甚至可以让门禁读取区块链数据，不给已经离职的员工开门）。
   
