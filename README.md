@@ -1,4 +1,4 @@
-# newcompanystructure
+# newcompanystructure (新型公司结构)
 
 #English:
 As we all know, the first industrial revolution gave birth to an organization, a factory. The second industrial revolution gave birth to another new organization, the company. However, with the development of the times and economy, the existing company model has become backward and obsolete.
