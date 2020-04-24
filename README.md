@@ -37,7 +37,11 @@ In these countries with imperfect legal system, business owners or business lead
   
   For example, when the company has a system of working hours of 8 hours a day and no more than 40 hours a week. If the company's management violates this regulation and asks employees to work overtime, the employees below can vote to sanction the leader, demote him or her, and reduce his or her salary. This also solves a long-term problem of forced overtime. For example, before that, Chinese employees launched the 996 ICU campaign (996. ICU) on GitHub.
 
-  
+  Every once in a while, the platform will start to run for the leadership of each level of the company. Every employee can sign up for the election. Each contestant should write every specific article about what he or she is going to do and finish it within his or her term of office. At the end of the term, each employee can give a vote evaluation score for each campaign item, and finally get the overall score of the leadership term. For example, a leader's campaign Manifesto is
+  1. 10% increase in monthly salary per employee during tenure
+  2. Improve the working environment of all employees
+  3. Make a new competitive market product
+  Each employee can give a score after the end of the leadership term, from 0-10. Leaders with high scores can get more bonuses, or equity, or appreciation as a reward.
   
   
   
@@ -78,4 +82,9 @@ In these countries with imperfect legal system, business owners or business lead
   
   比如，当公司制定每天工作时间是8小时，每周不超过40小时的制度条例。如果公司管理层违背了这个条例，让员工加班，底下员工可以发起投票，对该领导制裁，降职，降薪等一系列手段。这也就解决了长期困扰员工的一个强制加班问题。比如在此之前中国的员工在github上发起了996ICU运动（996.icu）。
   
+  每隔一段时间，平台会开始竞选公司每一级别的领导，每一位在职员工都可以报名参加竞选，每一位选手要把自己将要实现做的事情，写成具体的每一条，在自己任期内完成。任期结束后，每个员工可以针对每一条竞选项目给与投票评价打分，最终得到该领导任期的总体评分。比如某位领导竞选宣言是
+  1、任期内每位员工月薪增加10%
+  2、改善所有员工工作环境
+  3、做出一款新的有竞争力的市场产品
+  每一位员工都可以在该领导任期结束后给与打分，从0-10分打分。得分高的领导可以获得更多的奖金，或者股权，或者可以升值作为奖励。
   
