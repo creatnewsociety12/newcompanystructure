@@ -33,6 +33,9 @@ In these countries with imperfect legal system, business owners or business lead
   
   When a leader is elected to step down, but still appears as a manager in the company, employees can vote, punish him, and even dismiss him from the company. The platform will not transfer his account address into monthly salary every month. The platform also removes his record as an employee of the company, so that he can leave the company substantially(or even let the access control read the blockchain data, not open the door to the employees who have already left).
   
+  Some people ask, what if the boss doesn't put money into the platform at first? In the future, all companies must use this platform, otherwise employees will not go to work in this company, which is so simple. Everyone interviews a company. The first thing they check is the company's platform number, company funds, shareholders, shares, monthly salary, number of employees, positions, working hours, all clearly written on the blockchain data of the platform. This will lead to Darwin's natural elimination of the fittest. Companies that dare not use the platform have no one to interview, and companies with good platform data will get better employees.
+  
+  
   
   
   
@@ -68,4 +71,7 @@ In these countries with imperfect legal system, business owners or business lead
   在平台里，每一位员工都可以发起对公司领导或者制度的投票，当某一位领导压榨员工，欺负员工，大家可以通过投票的方式，让他下台。在区块链里写入对应的投票结果，让该领导降低等级，每个月平台发送给他的数字货币月薪也相应减少。这一切操作不可人为干预，就像不能认为干预比特币交易一个道理。
 
   当某位领导被投票选举下台后，却依然在公司里以管理者身份出现，员工就可以发起投票，对他制裁，严重的可以开除出公司，每个月平台不再给他的账户地址转入月薪。平台里也去掉他作为公司在职员工的记录，从而让他实质性的离开公司（甚至可以让门禁读取区块链数据，不给已经离职的员工开门）。
+  
+  有些人会问，如果老板开始就不往平台里注入资金怎么办？以后所有的公司都必须用这个平台，否则员工就不会去这家公司上班，就这么简单。每个人去面试一家公司，首先查看的就是这家公司的平台号码，公司资金，股东人员，股份情况，月薪情况，员工数量，岗位情况，工作时间，全部在平台的区块链数据上写的清清楚楚。这将会造成优胜劣汰的达尔文自然淘汰情况，不敢使用平台的公司没人去面试，平台数据良好的公司会得到更优秀的员工。
+  
   
