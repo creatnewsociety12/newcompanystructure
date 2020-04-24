@@ -43,7 +43,7 @@ In these countries with imperfect legal system, business owners or business lead
   3. Make a new competitive market product
 
   Each employee can give a score after the end of the leadership term, from 0-10. Leaders with high scores can get more bonuses, or equity, or appreciation as a reward.  
-  
+  The company's terms can be set that employees who have worked for more than 10 years can never be dismissed, even if they vote. For retired employees, the platform system transfers money to the employee's account address in the form of pension every month.
   
   
   
@@ -94,4 +94,4 @@ In these countries with imperfect legal system, business owners or business lead
   3、做出一款新的有竞争力的市场产品
   
   每一位员工都可以在该领导任期结束后给与打分，从0-10分打分。得分高的领导可以获得更多的奖金，或者股权，或者可以升值作为奖励。
-  
+  公司条款可以设定对于工作超过10年的员工，永久不能裁退，哪怕发起投票也无效。对于退休员工，每个月以退休金方式，平台系统定期转账货币到该员工账户地址里。
