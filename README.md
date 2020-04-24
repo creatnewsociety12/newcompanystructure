@@ -26,6 +26,10 @@ In these countries with imperfect legal system, business owners or business lead
   Imagine that if there is such a platform, the boss will inject the company's funds in the form of digital currency into the decentralized blockchain platform like bitcoin. Every employee of the company can receive monthly salary according to the way set by the platform every month. After the boss injected the capital, he can't withdraw it halfway. He can only take his share of the profits from the platform according to the agreed profit proportion of the company. In this platform, everyone is fair, open, fair and there is no secret operation. The company's leaders are jointly elected by each employee of the company. Each employee holds different shares of the company according to the data written in the blockchain.
   
   The company's expenditure and income enter the platform in the form of digital currency, and all data are transparent and open. When the company dismisses an employee, the employee gives a speech to all colleagues (or even writes the content of the speech into the blockchain) to prove that he should not be dismissed, and then the final result is obtained by all the votes.
+
+  When the company's managers make a decision, it must be made by all the employees of the company, so as to avoid the managers' wrong behavior endangering the healthy development of the company, thus affecting the work and life stability of every employee.
+  
+  
   
   
 #chinese:  
@@ -55,3 +59,6 @@ In these countries with imperfect legal system, business owners or business lead
   
   公司的支出和收入以数字货币形式进入这个平台，所有数据全部透明，公开。公司辞退某一位员工，该员工在面对所有同事举行演讲（甚至可以把演讲稿内容写入区块链）以此证明自己并不应该被辞退，然后经过全体投票得出最终结果。
 
+  当公司管理者做出某个决定，必须由公司全体员工共同做出决定，以此避免管理者的错误行为危害公司的健康发展，从而影响每一位员工的工作与生活安定。
+
+  
