@@ -15,6 +15,8 @@ In these countries with imperfect legal system, business owners or business lead
 
   All these measures are deliberately arranged by the company's leaders to force the employee to leave voluntarily, so that the company does not have to pay any compensation.
   
+  A lot of entrepreneurs promise to distribute shares to every employee in the future when they set up the company. Entice employees to work for him with very high returns. However, when the company grew, it used all mean means to eliminate its former employees. They can use the method of making fake accounts to create a situation in which the company is not profitable or has little profit (however, these bosses and managers have even bought villas and yachts), resulting in very little return for entrepreneurial employees, especially in some countries with imperfect legal system.
+  
   
   
   
@@ -33,6 +35,8 @@ In these countries with imperfect legal system, business owners or business lead
   在通常状况下，企业辞退员工会给员工一大笔补偿，然而在一些国家的法律里却存在这么一种情况，当员工主动申请离职，公司无需做出任何补偿。这样就留给公司一个欺负压榨员工的漏洞。当公司想辞退某位员工时候，公司领导往往会采取非常卑鄙无耻的行为，比如找出各种理由给某个员工增加工作强度，在会议上点名批评这位员工，暗中指使其他员工不配合这位员工的工作，导致他工作效率低下，等诸如此类的行为。
   
   这一切的做法都是公司领导刻意安排的，目的就是逼迫这位员工主动离职，从而公司不用支付任何赔偿。
+  
+  非常多的创业老板们，他们成立公司那一刻，许诺给每一位员工将来分配股份。用非常高额的回报诱惑员工去他那里工作。然而当这家公司发展壮大后，就用一切卑鄙的手段剔除曾经的创业员工。他们可以采用做假账的方法制造出公司不盈利或者盈利很少的局面（然而这些老板和管理者甚至都已经买了别墅和游艇），导致创业员工只得到非常少的回报，这在一些法制不健全的国家尤为明显。
   
   
 
