@@ -29,6 +29,8 @@ In these countries with imperfect legal system, business owners or business lead
 
   When the company's managers make a decision, it must be made by all the employees of the company, so as to avoid the managers' wrong behavior endangering the healthy development of the company, thus affecting the work and life stability of every employee.
   
+  In the platform, every employee can vote for the company's leaders or systems. When a leader squeezes and bullies an employee, everyone can vote for him to step down. Write the corresponding voting results in the blockchain to lower the level of the leader, and the monthly salary of the digital currency sent to him by the platform every month will also be reduced accordingly. All these operations can't be interfered with, just like we can't think of one reason to interfere with bitcoin trading.
+  
   
   
   
@@ -60,5 +62,7 @@ In these countries with imperfect legal system, business owners or business lead
   公司的支出和收入以数字货币形式进入这个平台，所有数据全部透明，公开。公司辞退某一位员工，该员工在面对所有同事举行演讲（甚至可以把演讲稿内容写入区块链）以此证明自己并不应该被辞退，然后经过全体投票得出最终结果。
 
   当公司管理者做出某个决定，必须由公司全体员工共同做出决定，以此避免管理者的错误行为危害公司的健康发展，从而影响每一位员工的工作与生活安定。
+
+  在平台里，每一位员工都可以发起对公司领导或者制度的投票，当某一位领导压榨员工，欺负员工，大家可以通过投票的方式，让他下台。在区块链里写入对应的投票结果，让该领导降低等级，每个月平台发送给他的数字货币月薪也相应减少。这一切操作不可人为干预，就像不能认为干预比特币交易一个道理。
 
   
