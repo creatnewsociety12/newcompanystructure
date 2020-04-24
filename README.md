@@ -23,7 +23,7 @@ In these countries with imperfect legal system, business owners or business lead
   
   The biggest problem in the current company structure is the lack of justice. We can't use a fair, fair and open platform to deal with the company's affairs.
   
-  
+  Imagine that if there is such a platform, the boss will inject the company's funds in the form of digital currency into the decentralized blockchain platform like bitcoin. Every employee of the company can receive monthly salary according to the way set by the platform every month. After the boss injected the capital, he can't withdraw it halfway. He can only take his share of the profits from the platform according to the agreed profit proportion of the company. In this platform, everyone is fair, open, fair and there is no secret operation. The company's leaders are jointly elected by each employee of the company. Each employee holds different shares of the company according to the data written in the blockchain.
   
   
 #chinese:  
@@ -49,4 +49,4 @@ In these countries with imperfect legal system, business owners or business lead
   
   现在的公司结构里面临最大的一个问题就是，缺乏公正。无法用一个公正，公平，公开的平台来处理公司事务。
   
-  
+  设想一下，如果有这么一个平台，老板把公司的资金，用数字货币的形式，一次性注入类似于比特币这种去中心化的区块链平台里。每一位公司上班的员工，每个月都可以按照平台设定好的方式领到月薪。老板注入资金后，不能中途取回，他自己也只能按照商定好的公司利润比例，从平台拿取属于自己的那一份股份盈利。在这个平台里，每个人都是公正，公开，公平的，没有暗箱操作。公司的领导由公司每一个员工共同投票选举产生，每一个员工都按照区块链写入的数据持有公司的大小不等股份。
