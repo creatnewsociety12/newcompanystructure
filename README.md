@@ -37,10 +37,10 @@ In these countries with imperfect legal system, business owners or business lead
   
   For example, when the company has a system of working hours of 8 hours a day and no more than 40 hours a week. If the company's management violates this regulation and asks employees to work overtime, the employees below can vote to sanction the leader, demote him or her, and reduce his or her salary. This also solves a long-term problem of forced overtime. For example, before that, Chinese employees launched the 996 ICU campaign (996. ICU) on GitHub.
 
-  Every once in a while, the platform will start to run for the leadership of each level of the company. Every employee can sign up for the election. Each contestant should write every specific article about what he or she is going to do and finish it within his or her term of office. At the end of the term, each employee can give a vote evaluation score for each campaign item, and finally get the overall score of the leadership term. For example, a leader's campaign Manifesto is
+  Every once in a while, the platform will start to run for the leadership of each level of the company. Every employee can sign up for the election. Each contestant should write every specific article about what he or she is going to do and finish it within his or her term of office. At the end of the term, each employee can give a vote evaluation score for each campaign item, and finally get the overall score of the leadership term. For example, a leader's campaign Manifesto is  
   1. 10% increase in monthly salary per employee during tenure
   2. Improve the working environment of all employees
-  3. Make a new competitive market product
+  3. Make a new competitive market product  
   Each employee can give a score after the end of the leadership term, from 0-10. Leaders with high scores can get more bonuses, or equity, or appreciation as a reward.
   
   
