@@ -40,8 +40,10 @@ In these countries with imperfect legal system, business owners or business lead
   Every once in a while, the platform will start to run for the leadership of each level of the company. Every employee can sign up for the election. Each contestant should write every specific article about what he or she is going to do and finish it within his or her term of office. At the end of the term, each employee can give a vote evaluation score for each campaign item, and finally get the overall score of the leadership term. For example, a leader's campaign Manifesto is  
   1. 10% increase in monthly salary per employee during tenure
   2. Improve the working environment of all employees
-  3. Make a new competitive market product  
-Each employee can give a score after the end of the leadership term, from 0-10. Leaders with high scores can get more bonuses, or equity, or appreciation as a reward.  
+  3. Make a new competitive market product
+
+  Each employee can give a score after the end of the leadership term, from 0-10. Leaders with high scores can get more bonuses, or equity, or appreciation as a reward.  
+  
   
   
   
