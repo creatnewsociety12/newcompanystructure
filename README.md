@@ -42,9 +42,12 @@ In these countries with imperfect legal system, business owners or business lead
   2. Improve the working environment of all employees
   3. Make a new competitive market product
 
-  Each employee can give a score after the end of the leadership term, from 0-10. Leaders with high scores can get more bonuses, or equity, or appreciation as a reward.  
-  The company's terms can be set that employees who have worked for more than 10 years can never be dismissed, even if they vote. For retired employees, the platform system transfers money to the employee's account address in the form of pension every month.
+  Each employee can give a score after the end of the leadership term, from 0-10. Leaders with high scores can get more bonuses, or equity, or appreciation as a reward.
   
+  The company's terms can be set that employees who have worked for more than 10 years can never be dismissed, even if they vote. For retired employees, the platform system transfers money to the employee's account address in the form of pension every month.
+  Each employee can only encounter two dismission votes within the period of less than permanent employment, with an interval of no less than 3 years each time. If both times fail, the employee will be permanently employed.
+  
+  Perhaps some people will ask, when the company system platform of the fund for 0 how to do, the company can not pay wages how to do? All employees will vote to decide whether to dissolve the company. When it is unanimously approved, the company will be dissolved automatically. If it is not unanimously approved, those who vote against will vote whether they are willing to continue to work through the existing shares of the company. Employees will only receive shares each month, but no monthly salary. The remaining employees who are willing to take only shares of the company will stay for work. If the company comes back from the dead, they will get rich rewards. Of course, the company may go bankrupt later, without any reward. High return also means high risk.
   
   
   
@@ -95,3 +98,5 @@ In these countries with imperfect legal system, business owners or business lead
   
   每一位员工都可以在该领导任期结束后给与打分，从0-10分打分。得分高的领导可以获得更多的奖金，或者股权，或者可以升值作为奖励。
   公司条款可以设定对于工作超过10年的员工，永久不能裁退，哪怕发起投票也无效。对于退休员工，每个月以退休金方式，平台系统定期转账货币到该员工账户地址里。
+  每一位员工在未满永久聘用的时间内，只能遭遇两次辞退投票，每次间隔不小于3年，当两次都未通过后，该员工将被永久录用。
+或许有人会问，当公司系统平台里的资金为0该怎么办，公司发不出工资了怎么办？所有员工会发起投票表决，是否解散公司，当一致通过后，公司自动解散，当没有一致通过，投反对票的人表决是否愿意通过公司现有的股份来继续工作，员工每个月将只能领取股份，而没有月薪。剩下愿意只拿公司股份的员工，将留下工作。如果公司起死回生，他们将得到丰厚的回报，当然，公司也有可能以后接着倒闭，自己没有任何报酬。高回报也意味着高风险。
