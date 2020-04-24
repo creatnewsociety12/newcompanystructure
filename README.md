@@ -41,7 +41,8 @@ In these countries with imperfect legal system, business owners or business lead
   1. 10% increase in monthly salary per employee during tenure
   2. Improve the working environment of all employees
   3. Make a new competitive market product  
-  Each employee can give a score after the end of the leadership term, from 0-10. Leaders with high scores can get more bonuses, or equity, or appreciation as a reward.
+Each employee can give a score after the end of the leadership term, from 0-10. Leaders with high scores can get more bonuses, or equity, or appreciation as a reward.  
+  
   
   
   
