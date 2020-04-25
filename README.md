@@ -77,6 +77,8 @@ Why do many people wonder why aliens with a higher level of civilization than hu
   
   The greatest point of the platform is that employees can unite to change their leaders. When leaders do evil, employees initiate punishment voting and kick leaders out of management. In the platform, leaders cannot issue orders and receive employees' work reports. The owner of the initial investment is also a member of the company in the platform, as a contributor and a shareholder. If he wants to be a leader, he has to run. If they don't do well, they will be voted out of management.
   
+  In the process of employee voting, the voting rights of employees who have been employed for a long time are more important, and the weight of employees who hold shares is also larger, while that of employees who have not been employed for a short time is smaller. The weight is related to the length of employment and the proportion of shares. In this way, some new employees will not mess up the company. The old employees and the employees who hold shares love the company. If the company loses, they will also lose. Therefore, these people will be more cautious.
+  
   
   
   
@@ -162,6 +164,8 @@ Why do many people wonder why aliens with a higher level of civilization than hu
   随着社会，经济的发展，文凭，证书这种东西已经变成落后，淘汰的象征，这些东西从本质上否定了一个人自我学习改变的能力。人是不断变化的，以前不掌握的知识技能，经过学习后可能已经熟练掌握，曾经熟练的知识，技能长期不使用，很可能已经不再掌握。一个证书怎么能够证明这个人呢？必须要彻底淘汰这种落后的，标签式的定义方式。
   
   平台最伟大的一点就是，员工可以团结起来换掉领导。领导作恶，员工发起惩罚投票，把领导踢出管理层，在平台里，领导不能发布命令，接收员工工作汇报。最初投入资金的老板，在平台里也是公司的一员，作为出资人角色，担任股东。他想成为领导，也必须通过竞选实现。如果干的不好，也会被投票踢出管理层。
+  
+  员工投票过程中，入职时间长的员工投票权重大一些，持有股份的员工权重也大一些，入职时间短，没有股票的员工权重小一些。权重的大小和入职时间长短，股份占有比例大小相关。这样就避免一些新来员工搞乱公司，老员工和持有股份的员工爱公司，公司损失了，他们自己也会有损失，因此这些人做事会慎重许多。
   
   
   
