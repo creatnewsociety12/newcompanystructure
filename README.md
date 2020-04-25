@@ -67,6 +67,8 @@ I decided to divide the company structure into several parts, like a ship sailin
   
   Let's imagine how ridiculous it is that a job requires a corresponding diploma to enter. When a young, promising, self-taught person has mastered the corresponding knowledge and ability, but because he has not entered the university to study, there is no college diploma, so he can not enter a company job. It's a funny thing. What dogmatism it is. In any case, everyone should be provided with the opportunity to enter the position. Education and certificates should not be used to limit everyone's access to the job.
   
+  In the future, all workplaces in the world will be opened up. In the decentralized blockchain platform, it is no longer an isolated island. Everyone can go to the company they want to go to work, and don't worry about being dismissed because they won't flatter the boss. Don't worry about getting into trouble after offending the leaders. Everyone can express their opinions and exert their wisdom in a free environment. The platform puts the wolf's mouth in a sleeve, so as not to hurt others. Power is balanced and everyone is guaranteed.
+  
   
   
   
@@ -142,6 +144,8 @@ I decided to divide the company structure into several parts, like a ship sailin
   严格来讲，每一位员工其实是属于去中心化的平台，而不是属于你这个公司。每一个公司可以对接进入去中心化的平台，充入资金开始运作，然后员工从平台领取薪水，为你工作。这一切和公司老板，领导没有任何关系。哪怕辞退员工，也是该公司所有员工共同决定，也和领导没有任何关系，当领导强迫所有员工投票剔除该员工，该员工可以发起投票，起诉该领导违规行为，所有员工投票过半后，该领导的薪水或者股份会受到削减惩罚。这就是反制的权力。并且反制投票是完全匿名的，投完后无法查看投票过程，只显示结果，不会遭到打击报复。
   
   我们每个人试想一下，一个工作岗位需要符合对应的文凭，学历才能进入，这是多么的荒唐可笑。当一个年轻有为，自学成才的人掌握了对应的知识和能力后，却因为没有进入过大学学习，没有大学文凭，从而无法进入某个公司岗位工作。这是一个很滑稽，可笑的事情，这是多么的教条主义啊。无论如何都应该给每个人提供进入这个岗位的机会，不能用学历，证书，来限制每个人获取工作的机会。
+  
+  以后全世界所有的工作场所都会被打通，在去中心化的区块链平台里，不再是一个个孤立的岛屿。每个人都可以去自己想去的公司上班，不用担心不会说讨好老板的话而被辞退。不用担心得罪领导后惹麻烦，每个人都可以表达自己的观点，在自由的环境中发挥出自己的聪明才智。平台把掌握权力的狼嘴巴戴上了套子，不让乱伤害别人。权力得到了平衡，每个人都有保障。
   
   
   
