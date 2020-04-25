@@ -73,6 +73,8 @@ I decided to divide the company structure into several parts, like a ship sailin
   
 Why do many people wonder why aliens with a higher level of civilization than humans don't actively contact us? Have you ever thought about how aliens view humans? A king or president at the top, a group of bureaucrats with power in the middle, and a people without power at the bottom. What's the difference between this and animal groups? A monkey king in the monkey group, a few obedient male monkeys in the middle, and a group of small monkeys at the bottom. Why don't you get in touch with some monkey group in the forest? That's what aliens think. Humans are no different from monkeys, just a group of monkeys with iPhones.
   
+  With the development of society and economy, diploma and certificate have become the symbol of backwardness and obsolescence, which essentially negates a person's ability to learn and change. People are constantly changing. They may have mastered the knowledge and skills they didn't master before after learning. They may not have mastered the knowledge and skills they used for a long time. How can a certificate prove this person? We must completely eliminate this backward and labeled way of definition.
+  
   
   
   
@@ -154,6 +156,8 @@ Why do many people wonder why aliens with a higher level of civilization than hu
   是应该改变金字塔型的人类社会结构了，只有在动物群体中才会存在这么原始的社会结构。一个物种个体在最顶端，权力最大，底层的个体在最底部，毫无权力。是应当改变的时候了。新型公司架构就改变了这种金字塔型的结构。决定你命运的并不是你顶部的人，而是所有人的投票表决。
   
 很多人为什么好奇文明程度比人类高的外星人为什么不主动联系我们？你们有没有想过，外星人用什么角度来看待人类？最顶层一个国王或者总统，中间一群掌握权力的官僚，底层毫无权力的人民。这和动物群体有什么区别？猴群里一个猴王，中间几个听话的公猴，底层一帮小猴子。你为什么不去和森林中的某个猴群取得联系呢？外星人也是这么想的，人类和猴子没什么区别，只是一群拿着iphone的猴子罢了。
+  
+  随着社会，经济的发展，文凭，证书这种东西已经变成落后，淘汰的象征，这些东西从本质上否定了一个人自我学习改变的能力。人是不断变化的，以前不掌握的知识技能，经过学习后可能已经熟练掌握，曾经熟练的知识，技能长期不使用，很可能已经不再掌握。一个证书怎么能够证明这个人呢？必须要彻底淘汰这种落后的，标签式的定义方式。
   
   
   
