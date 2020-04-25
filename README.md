@@ -65,6 +65,9 @@ I decided to divide the company structure into several parts, like a ship sailin
   
   Strictly speaking, every employee belongs to the decentralized platform, not to your company. Every company can connect into the decentralized platform, fill in the funds and start to operate, and then the employees can get the salary from the platform and work for you. All this has nothing to do with the boss and the leader of the company. Even dismissing an employee is a joint decision of all employees of the company, which has nothing to do with the leader. When the leader forces all employees to vote out the employee, the employee can initiate a vote to sue the leader for violations. After all employees vote more than half of the time, the salary or shares of the leader will be cut and punished. This is the power of anti system.And the anti voting is completely anonymous. After voting, you can't view the voting process, only show the results, and won't be retaliated.
   
+  Let's imagine how ridiculous it is that a job requires a corresponding diploma to enter. When a young, promising, self-taught person has mastered the corresponding knowledge and ability, but because he has not entered the university to study, there is no college diploma, so he can not enter a company job. It's a funny thing. What dogmatism it is. In any case, everyone should be provided with the opportunity to enter the position. Education and certificates should not be used to limit everyone's access to the job.
+  
+  
   
   
   
@@ -137,6 +140,10 @@ I decided to divide the company structure into several parts, like a ship sailin
   我决定把公司架构划分为几个部分，就像一艘航行在大海上的船一样。决策者决定这艘船的航行方向，任务分配者来分配具体的工作任务，执行者来执行对应的任务，瞭望者观察航向的正确与否和是否前方存在可能的危险，就犹如先知一般。
   
   严格来讲，每一位员工其实是属于去中心化的平台，而不是属于你这个公司。每一个公司可以对接进入去中心化的平台，充入资金开始运作，然后员工从平台领取薪水，为你工作。这一切和公司老板，领导没有任何关系。哪怕辞退员工，也是该公司所有员工共同决定，也和领导没有任何关系，当领导强迫所有员工投票剔除该员工，该员工可以发起投票，起诉该领导违规行为，所有员工投票过半后，该领导的薪水或者股份会受到削减惩罚。这就是反制的权力。并且反制投票是完全匿名的，投完后无法查看投票过程，只显示结果，不会遭到打击报复。
+  
+  我们每个人试想一下，一个工作岗位需要符合对应的文凭，学历才能进入，这是多么的荒唐可笑。当一个年轻有为，自学成才的人掌握了对应的知识和能力后，却因为没有进入过大学学习，没有大学文凭，从而无法进入某个公司岗位工作。这是一个很滑稽，可笑的事情，这是多么的教条主义啊。无论如何都应该给每个人提供进入这个岗位的机会，不能用学历，证书，来限制每个人获取工作的机会。
+  
+  
   
   
   
