@@ -75,6 +75,8 @@ Why do many people wonder why aliens with a higher level of civilization than hu
   
   With the development of society and economy, diploma and certificate have become the symbol of backwardness and obsolescence, which essentially negates a person's ability to learn and change. People are constantly changing. They may have mastered the knowledge and skills they didn't master before after learning. They may not have mastered the knowledge and skills they used for a long time. How can a certificate prove this person? We must completely eliminate this backward and labeled way of definition.
   
+  The greatest point of the platform is that employees can unite to change their leaders. When leaders do evil, employees initiate punishment voting and kick leaders out of management. In the platform, leaders cannot issue orders and receive employees' work reports. The owner of the initial investment is also a member of the company in the platform, as a contributor and a shareholder. If he wants to be a leader, he has to run. If they don't do well, they will be voted out of management.
+  
   
   
   
@@ -158,6 +160,8 @@ Why do many people wonder why aliens with a higher level of civilization than hu
 很多人为什么好奇文明程度比人类高的外星人为什么不主动联系我们？你们有没有想过，外星人用什么角度来看待人类？最顶层一个国王或者总统，中间一群掌握权力的官僚，底层毫无权力的人民。这和动物群体有什么区别？猴群里一个猴王，中间几个听话的公猴，底层一帮小猴子。你为什么不去和森林中的某个猴群取得联系呢？外星人也是这么想的，人类和猴子没什么区别，只是一群拿着iphone的猴子罢了。
   
   随着社会，经济的发展，文凭，证书这种东西已经变成落后，淘汰的象征，这些东西从本质上否定了一个人自我学习改变的能力。人是不断变化的，以前不掌握的知识技能，经过学习后可能已经熟练掌握，曾经熟练的知识，技能长期不使用，很可能已经不再掌握。一个证书怎么能够证明这个人呢？必须要彻底淘汰这种落后的，标签式的定义方式。
+  
+  平台最伟大的一点就是，员工可以团结起来换掉领导。领导作恶，员工发起惩罚投票，把领导踢出管理层，在平台里，领导不能发布命令，接收员工工作汇报。最初投入资金的老板，在平台里也是公司的一员，作为出资人角色，担任股东。他想成为领导，也必须通过竞选实现。如果干的不好，也会被投票踢出管理层。
   
   
   
