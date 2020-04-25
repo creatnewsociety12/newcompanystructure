@@ -57,7 +57,9 @@ In these countries with imperfect legal system, business owners or business lead
   
   When the boss's money is put into the platform, the right to use the money is no longer his. He can only receive dividends and profits according to the Shares specified by the platform. Even the boss himself has to abide by the rules of the platform, otherwise the employee can launch a punitive vote, leading him to reduce the Profit Dividend. In this way, fairness and justice are guaranteed to each other.
   
-  The power of a company's operation model can never be controlled by someone or a few people. Once these people do not handle affairs impartially, but for their own interests, or to bully others, the company may face a very dangerous situation, and every employee faces the unstable factors of life. Therefore, the operation of the company can not rely on the level of personal moral quality, can not rely on the great kindness of the boss or senior leaders, don't hope that the leaders will become kind, and no longer bully the bottom employees. Those who have these ideas are like hoping that the wolf will no longer eat meat, and that the wolf will eat grass from then on, so that the sheep will be safe. This is a very absurd, very ridiculous fantasy.
+The operation power of a company can never be controlled by a certain person or a few people. Once these people do not act impartially, but for their own interests, or to bully others, the company may face a very dangerous situation. Every employee is facing the unstable factors of life. Therefore, the operation of the company can not rely on the level of personal moral quality, can not rely on the great kindness of the boss or senior leaders, don't hope that the leaders will become kind, and no longer bully the bottom employees. Those who have these ideas are like hoping that the wolf will no longer eat meat, and that the wolf will eat grass from then on, so that the sheep will be safe. This is a very absurd, very ridiculous fantasy.
+  
+  
   
   
   
