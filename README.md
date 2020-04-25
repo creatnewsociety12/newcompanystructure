@@ -61,6 +61,8 @@ The operation power of a company can never be controlled by a certain person or 
   
   After all the workplaces, no matter the company, school, factory, shop, etc. There is no threshold, anyone can apply for a job, no longer need the company's personnel specialist to review your qualifications, no longer need the restrictions of undergraduate education. As long as you are willing to work in this company, you can go for an interview. When most people in this company vote for you, you are an employee of this company. As long as you can work hard, you don't have to worry about losing your job, because most people in the company don't deny a hard-working colleague.
   
+I decided to divide the company structure into several parts, like a ship sailing on the sea. The decision-maker decides the ship's sailing direction, the task allocator assigns specific tasks, the executor performs corresponding tasks, and the lookout observes whether the course is correct or not and whether there is possible danger ahead, just like a prophet.
+  
   
   
   
@@ -128,5 +130,7 @@ The operation power of a company can never be controlled by a certain person or 
   一个公司的运作权力，绝对不能掌控在某个人或者某些少数人的手里，一旦这些人并不秉公办事，而是为了自己的利益，或者为了欺压别人，这个公司可能就面临非常危险的局面，每个员工都面临生活的不安定因素。因此，公司的运作，不能依靠个人的道德品质的高低，不能寄希望于老板或者高层领导大发善心，不要希望领导变善良，不再欺压底层员工。有这些想法的人，无异于希望狼不再吃肉，狼从此吃草，这样羊群就安全了。这都是非常荒谬，非常可笑的幻想。
   
   以后所有的工作场所，无论是公司，学校，工厂，商店，等。都不存在门槛，任何人都可以去申请工作，不再需要公司的人事专员去审核你的资质，不再需要大学本科学历的限制。只要你愿意去这家公司上班，你都可以去面试，当这个公司大多数人投票认可你，那么你就是这家公司的员工了。只要你能够认真干，就不用担心失业，因为公司不会大部分人去否定一位努力工作的同事。
+  
+  我决定把公司架构划分为几个部分，就像一艘航行在大海上的船一样。决策者决定这艘船的航行方向，任务分配者来分配具体的工作任务，执行者来执行对应的任务，瞭望者观察航向的正确与否和是否前方存在可能的危险，就犹如先知一般。
   
   
