@@ -53,6 +53,11 @@ In these countries with imperfect legal system, business owners or business lead
   
   This new way of working is the way blockchain will bring to human beings in the future. When we carefully observe, this way does not change the existing operation mode of the company. The employees still work in the previous offices or schools and other institutions, and each month they are paid according to the grade. However, this model changes the way people connect with each other. It's like Uber's taxi software has changed the taxi industry. It hasn't changed the car itself, changed the car with four wheels into five wheels, or added another steering wheel. The taxi is still the previous taxi, and what it has changed is the contact between the car and the person. It's also similar to the new invention in China, shared bicycle. It only changes the relationship between people and bicycles. This new mode of corporate structure will bring new changes to the whole human being and bring human beings into a new civilized society.
   
+  The secret to the success of this new corporate structure is that employees' salaries are not paid directly by the company's boss or leaders, but by decentralized platforms. The right of employees to be dismissed is not in the hands of the company's boss and senior management, but is decided by everyone's vote. And when the leadership behavior is unfair and wrong, every employee of the company has the power to check and balance the senior leaders of the company, and has the power to counter the system and fight back.
+  
+  When the boss's money is put into the platform, the right to use the money is no longer his. He can only receive dividends and profits according to the Shares specified by the platform. Even the boss himself has to abide by the rules of the platform, otherwise the employee can launch a punitive vote, leading him to reduce the Profit Dividend. In this way, fairness and justice are guaranteed to each other.
+  
+  
   
   
 #chinese:  
@@ -109,5 +114,9 @@ In these countries with imperfect legal system, business owners or business lead
   很多求职者觉得自己非常适合某个公司的岗位，但是现在落后的公司招聘机制，决定你是否被录用的只是某些个别掌握公司权力的人，比如老板，行政人员等。将来的公司，任何人都可以来面试，你只需要当着该公司所有人进行演讲，当大部分公司成员投票认可你的时候，你就自动进入公司试用期，当过了试用期后，所有员工再投票表决是否正式录用你为正式员工（如果是学校的话，可以让学生也参与表决，学生也是学校的成员）。
   
   这种新的工作方式，就是未来区块链为人类带来的工作方式。当我们仔细观察，这种方式并没有改变现有的公司运作模式，员工还是在之前的办公室或者学校等机构工作，每个月也是拿着符合等级的薪水。然而这种模式改变的是人与人之间的连接方式。这就像Uber这款打车软件改变了出租车行业， 它并没有改变汽车本身，没有让4个轮子的车子变成5个轮子，也没有多增加一个方向盘进去，出租车还是以前的出租车，它改变的是车与人之间的联系方式。这也类似在中国所诞生的新发明，共享单车。它改变的只是人和自行车之间的关系。这种新的公司架构模式，将给全人类带来新的变化，让人类进入一个新的文明社会。
+  
+  这个新型公司结构能成功的秘诀就是，员工的工资收入不由公司老板或者领导直接发放，而是由去中心化的平台固定发放。员工是否被辞退的权利也不掌握在公司老板和高层手里，而是由每个人投票决定。并且当领导行为出现不公正，错误情况下，公司每一位员工都有制衡公司高层领导的权力，拥有反制，反击的权力。
+  
+  当老板的钱投入平台那一刻，这个资金的使用权就已经不再是他的了。他只能按照平台规定的股份领取分红和盈利。哪怕是老板本人也得遵守平台规定，否则员工就可以发起惩罚投票，导致他降低盈利分红。这样就保证了相互得公平公正。
   
   
