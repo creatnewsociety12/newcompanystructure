@@ -69,6 +69,10 @@ I decided to divide the company structure into several parts, like a ship sailin
   
   In the future, all workplaces in the world will be opened up. In the decentralized blockchain platform, it is no longer an isolated island. Everyone can go to the company they want to go to work, and don't worry about being dismissed because they won't flatter the boss. Don't worry about getting into trouble after offending the leaders. Everyone can express their opinions and exert their wisdom in a free environment. The platform puts the wolf's mouth in a sleeve, so as not to hurt others. Power is balanced and everyone is guaranteed.
   
+  It's time to change the pyramidal structure of human society. Only in animal groups can such a primitive social structure exist. The individual of a species is at the top, with the greatest power. The individual of the bottom is at the bottom, without power. It's time to change. The new corporate structure changes the pyramid structure. It's not the people at the top who decide your destiny, it's the votes of everyone.
+  
+Why do many people wonder why aliens with a higher level of civilization than humans don't actively contact us? Have you ever thought about how aliens view humans? A king or president at the top, a group of bureaucrats with power in the middle, and a people without power at the bottom. What's the difference between this and animal groups? A monkey king in the monkey group, a few obedient male monkeys in the middle, and a group of small monkeys at the bottom. Why don't you get in touch with some monkey group in the forest? That's what aliens think. Humans are no different from monkeys, just a group of monkeys with iPhones.
+  
   
   
   
@@ -147,6 +151,9 @@ I decided to divide the company structure into several parts, like a ship sailin
   
   以后全世界所有的工作场所都会被打通，在去中心化的区块链平台里，不再是一个个孤立的岛屿。每个人都可以去自己想去的公司上班，不用担心不会说讨好老板的话而被辞退。不用担心得罪领导后惹麻烦，每个人都可以表达自己的观点，在自由的环境中发挥出自己的聪明才智。平台把掌握权力的狼嘴巴戴上了套子，不让乱伤害别人。权力得到了平衡，每个人都有保障。
   
+  是应该改变金字塔型的人类社会结构了，只有在动物群体中才会存在这么原始的社会结构。一个物种个体在最顶端，权力最大，底层的个体在最底部，毫无权力。是应当改变的时候了。新型公司架构就改变了这种金字塔型的结构。决定你命运的并不是你顶部的人，而是所有人的投票表决。
+  
+很多人为什么好奇文明程度比人类高的外星人为什么不主动联系我们？你们有没有想过，外星人用什么角度来看待人类？最顶层一个国王或者总统，中间一群掌握权力的官僚，底层毫无权力的人民。这和动物群体有什么区别？猴群里一个猴王，中间几个听话的公猴，底层一帮小猴子。你为什么不去和森林中的某个猴群取得联系呢？外星人也是这么想的，人类和猴子没什么区别，只是一群拿着iphone的猴子罢了。
   
   
   
