@@ -57,6 +57,8 @@ In these countries with imperfect legal system, business owners or business lead
   
   When the boss's money is put into the platform, the right to use the money is no longer his. He can only receive dividends and profits according to the Shares specified by the platform. Even the boss himself has to abide by the rules of the platform, otherwise the employee can launch a punitive vote, leading him to reduce the Profit Dividend. In this way, fairness and justice are guaranteed to each other.
   
+  The power of a company's operation model can never be controlled by someone or a few people. Once these people do not handle affairs impartially, but for their own interests, or to bully others, the company may face a very dangerous situation, and every employee faces the unstable factors of life. Therefore, the operation of the company can not rely on the level of personal moral quality, can not rely on the great kindness of the boss or senior leaders, don't hope that the leaders will become kind, and no longer bully the bottom employees. Those who have these ideas are like hoping that the wolf will no longer eat meat, and that the wolf will eat grass from then on, so that the sheep will be safe. This is a very absurd, very ridiculous fantasy.
+  
   
   
   
@@ -118,5 +120,7 @@ In these countries with imperfect legal system, business owners or business lead
   这个新型公司结构能成功的秘诀就是，员工的工资收入不由公司老板或者领导直接发放，而是由去中心化的平台固定发放。员工是否被辞退的权利也不掌握在公司老板和高层手里，而是由每个人投票决定。并且当领导行为出现不公正，错误情况下，公司每一位员工都有制衡公司高层领导的权力，拥有反制，反击的权力。
   
   当老板的钱投入平台那一刻，这个资金的使用权就已经不再是他的了。他只能按照平台规定的股份领取分红和盈利。哪怕是老板本人也得遵守平台规定，否则员工就可以发起惩罚投票，导致他降低盈利分红。这样就保证了相互得公平公正。
+  
+  一个公司的运作模权力，绝对不能掌控在某个人或者某些少数人的手里，一旦这些人并不秉公办事，而是为了自己的利益，或者为了欺压别人，这个公司可能就面临非常危险的局面，每个员工都面临生活的不安定因素。因此，公司的运作，不能依靠个人的道德品质的高低，不能寄希望于老板或者高层领导大发善心，不要希望领导变善良，不再欺压底层员工。有这些想法的人，无异于希望狼不再吃肉，狼从此吃草，这样羊群就安全了。这都是非常荒谬，非常可笑的幻想。
   
   
