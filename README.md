@@ -63,6 +63,7 @@ The operation power of a company can never be controlled by a certain person or 
   
 I decided to divide the company structure into several parts, like a ship sailing on the sea. The decision-maker decides the ship's sailing direction, the task allocator assigns specific tasks, the executor performs corresponding tasks, and the lookout observes whether the course is correct or not and whether there is possible danger ahead, just like a prophet.
   
+  Strictly speaking, every employee belongs to the decentralized platform, not to your company. Every company can connect into the decentralized platform, fill in the funds and start to operate, and then the employees can get the salary from the platform and work for you. All this has nothing to do with the boss and the leader of the company. Even dismissing an employee is a joint decision of all employees of the company, which has nothing to do with the leader. When the leader forces all employees to vote out the employee, the employee can initiate a vote to sue the leader for violations. After all employees vote more than half of the time, the salary or shares of the leader will be cut and punished. This is the power of anti system.
   
   
   
@@ -132,5 +133,7 @@ I decided to divide the company structure into several parts, like a ship sailin
   以后所有的工作场所，无论是公司，学校，工厂，商店，等。都不存在门槛，任何人都可以去申请工作，不再需要公司的人事专员去审核你的资质，不再需要大学本科学历的限制。只要你愿意去这家公司上班，你都可以去面试，当这个公司大多数人投票认可你，那么你就是这家公司的员工了。只要你能够认真干，就不用担心失业，因为公司不会大部分人去否定一位努力工作的同事。
   
   我决定把公司架构划分为几个部分，就像一艘航行在大海上的船一样。决策者决定这艘船的航行方向，任务分配者来分配具体的工作任务，执行者来执行对应的任务，瞭望者观察航向的正确与否和是否前方存在可能的危险，就犹如先知一般。
+  
+  严格来讲，每一位员工其实是属于去中心化的平台，而不是属于你这个公司。每一个公司可以对接进入去中心化的平台，充入资金开始运作，然后员工从平台领取薪水，为你工作。这一切和公司老板，领导没有任何关系。哪怕辞退员工，也是该公司所有员工共同决定，也和领导没有任何关系，当领导强迫所有员工投票剔除该员工，该员工可以发起投票，起诉该领导违规行为，所有员工投票过半后，该领导的薪水或者股份会受到削减惩罚。这就是反制的权力。
   
   
