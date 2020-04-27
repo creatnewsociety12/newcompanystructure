@@ -79,9 +79,9 @@
   
   In the process of employee voting, the voting rights of employees who have been employed for a long time are more important, and the weight of employees who hold shares is also larger, while that of employees who have not been employed for a short time is smaller. The weight is related to the length of employment and the proportion of shares. In this way, some new employees will not mess up the company. The old employees and the employees who hold shares love the company. If the company loses, they will also lose. Therefore, these people will be more cautious.
   
-  
-  
-  
+  In some countries, companies or government institutions with good treatment and higher wage income have very high requirements for their employees, some of which even reach a harsh level. They require newly graduated undergraduate students to enter the enterprise, and even have a special choice of gender. Some companies even only recruit men, some companies only recruit Chinese Han people, while for white people, black people, almost all are rejected, although these regulations will not be written in written form, because this may cause racial discrimination. However, when a black person goes to interview for a job, the interviewer will not send the email of employment notice to the black person's mailbox, although on the surface, you are very good and capable. And it's all bad because of one or two people in charge of the company. There are some companies where, on the face of it, anyone can come to interview for a job, but they secretly make verbal agreements not to hire Jews. This is a terrible situation. In order to put an end to this discrimination, I designed a new corporate structure for all employees to decide whether to hire an employee or not. It's not a small group of people in charge of the company right now. Let real freedom and democracy be carried out in every workplace.
+
+
   
   
   
@@ -165,9 +165,9 @@
   
   平台最伟大的一点就是，员工可以团结起来换掉领导。领导作恶，员工发起惩罚投票，把领导踢出管理层，在平台里，领导不能发布命令，接收员工工作汇报。最初投入资金的老板，在平台里也是公司的一员，作为出资人角色，担任股东。他想成为领导，也必须通过竞选实现。如果干的不好，也会被投票踢出管理层。
   
-  员工投票过程中，入职时间长的员工投票权重大一些，持有股份的员工权重也大一些，入职时间短，没有股票的员工权重小一些。权重的大小和入职时间长短，股份占有比例大小相关。这样就避免一些新来员工搞乱公司，老员工和持有股份的员工爱公司，公司损失了，他们自己也会有损失，因此这些人做事会慎重许多。123
+  员工投票过程中，入职时间长的员工投票权重大一些，持有股份的员工权重也大一些，入职时间短，没有股票的员工权重小一些。权重的大小和入职时间长短，股份占有比例大小相关。这样就避免一些新来员工搞乱公司，老员工和持有股份的员工爱公司，公司损失了，他们自己也会有损失，因此这些人做事会慎重许多。
   
-  
+  在一些国家，拥有良好待遇，较高工资收入的公司或者政府事业单位，它们对于员工的要求是非常高的，有一些甚至达到了苛刻的程度。它们要求刚毕业的本科大学生才能进入该企业，甚至对性别有特殊的选择，有些公司甚至只招聘男性，有些公司只招聘中国汉人，而对于白种人，黑色人种，几乎都是拒绝的，虽然这些条例不会写成文字形式展现出来，因为这样可能造成种族歧视。然而当一个黑色人种去面试工作的时候，面试官虽然表面上说，你非常棒，能力很不错，然而他并不会发放录用通知的邮件到这个黑色人种的邮箱里。而这一切糟糕的局面都是因为这一两个掌握公司权力的人造成的。有一些公司表面上任何人都可以来面试职位，然而却暗中口头约定，不录用犹太人。这是非常糟糕可怕的情况，为了彻底终结这种歧视情况的存在，我设计了未来新型公司架构，让所有员工来决定是否录用某一位员工。而不是现在某一小部分掌握公司权力的人。让真正的自由，民主精神贯彻到每一个工作场所里。
   
   
   
