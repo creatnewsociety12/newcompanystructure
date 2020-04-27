@@ -190,8 +190,18 @@
   
   This platform even has the ability to set up a company quickly. Everyone can set up a company. In their own company environment, you can contact people with common ideals and ideas to start a new company. When more than half of the people in the company vote for approval, your company will be set up. It's like separating one branch from another, which can be funded by the parent company and incubate new companies. In this way, the company will maintain a strong vitality. Once the original company's products are eliminated, employees can vote to transfer into the newly hatched and promising companies to work without worrying about unemployment. In this way, the company will become a dynamic organic life. We can grow new and vigorous things at any time and eliminate the old ones. Always be young and energetic. The funds needed by the branch companies incubated should not exceed 2% of the funds of their parent companies, otherwise the new companies will drag the parent companies to death. Even if a branch sprouts, it will only sprout first. Then the buds grow into branches. If people in the company don't agree, you can also set up a company independently to attract social venture capital to help you set up a company. It's like a seed landing and developing completely out of its mother's body. Generally speaking, the survival rate of branch germination is much higher than that of seed.
   
+  可能世界上很多人不知道，在中国有两种工作体制，一种是私营企业，一种是国有政府事业。这两者的区别是，私营企业收入高，工作效率高，但是容易被裁撤，制度不完善，企业经常压榨，虐待员工，而国有企业待遇相对低一些，工作效率较低，但是各种福利待遇高，免费住房，免费吃饭，免费医疗等，企业关心员工，不存在裁员。我想做的就是把二者的优点结合起来，创造出新的公司模式。一个劳动者真正能够自我做主的，有创造力的，关怀员工的工作组织模式。
   
-
-
+  Maybe many people in the world don't know that there are two working systems in China, one is private enterprises, the other is state-owned government. The difference between the two is that the private enterprise has high income and high working efficiency, but it is easy to be eliminated, the system is not perfect, the enterprise often squeezes and abuses employees, while the state-owned enterprise has relatively low treatment and low working efficiency, but all kinds of welfare treatment are high, free housing, free meals, free medical treatment, etc., the enterprise cares about employees, and there is no layoff. What I want to do is to combine the advantages of the two and create a new company model. A work organization mode that a worker can really be self-determined, creative and caring for employees.
+  
+  每个员工都可以民主的发起投票，在公司的框架下，创立任何部门，任何组织，任何你可能现在都想不到的事情和组织，只要这个公司里的人投票过半就通过。比如成立一个非盈利的舞蹈表演部门，专门负责节日活动准备，演出等。
+  
+  Every employee can vote democratically. Within the framework of the company, create any department, any organization, any thing or organization that you may not think of now, as long as more than half of the people in the company vote. For example, set up a non-profit dance performance department, which is responsible for festival preparation and performance.
+  
+  从母公司分化出来的部门或者公司，需要的资金甚至可以由每个员工选择，每个人基于公司现在的资金，给出一个小于它的数字，然后根据一系列的算法，得出一个最合理的数字。
+  
+  For the departments or companies separated from the parent company, the funds needed can even be selected by each employee. Each employee can give a number smaller than the company's current funds, and then get the most reasonable number according to a series of algorithms.
+  
+  
 
 
