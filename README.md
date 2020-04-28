@@ -205,8 +205,17 @@
   一个公司只有在最稳定，最无可争议的平台系统下运作，公司才能有稳定的组成。否则就会变成封建王朝内部互相的权力争夺，上演一幕幕现代版的宫廷政变。最近比较有名的是中国一家在美国的上市公司，当当网（www.dangdang.com），公司之前的创始人李国庆带领5人闯进公司办公室，抢走了公司几十枚公司办公章。而更搞笑的是，现在公司的实际掌控人是他已经离婚的老婆。一场夫妻财富抢夺大战，成为影响几百人的事情。多么的荒谬可笑。这些人小丑一般的行为，让更多人的工作和生活陷入了不安定的环境中。这是一种多么糟糕的局面啊。
   
   Only when a company operates under the most stable and indisputable platform system can a company have a stable composition. Otherwise, it will become the power struggle within the feudal dynasty and stage a modern version of the palace coup. Recently, Dangdang (www.dangdang. Com), a Chinese listed company in the United States, was more famous. Li Guoqing, the former founder of the company, led five people into the company's office and robbed dozens of official seals of the company. What's more funny is that the actual controller of the company is his divorced wife. A battle for husband and wife's wealth has become a matter affecting hundreds of people. How ridiculous. These people clown like behavior, so that more people's work and life into an unstable environment. What a terrible situation it is.
-
   
+  每次发起投票，除非是惩罚性投票对发起人保护外，其余都要有视频录像来说明事情。外界投资人也可以直接看到公司内部的日常运作，数据清晰可见。每一个公司都不再将是一个个黑洞，求职者也可以直接看出这个公司的好坏。避免浪费时间在垃圾公司里。
+  
+  Every time a vote is initiated, except for punitive voting to protect the sponsor, there must be a video recording to explain the matter. External investors can also directly see the daily operation of the company, and the data is clear. Every company will no longer be a black hole, and job seekers can directly see the quality of the company. Avoid wasting time in a garbage company.
+  
+  在中国有些政府岗位，录用权由政府官员掌握，他们表面上做出公开考试录用选拔的样子，然而报名条件却是，应聘者能够讲希腊语，有俄罗斯留学经历，拥有会计证书资格。而这个条件几乎就是为该官员的女儿量身打造。是时候对这一切说不了。
+  
+  In some government positions in China, the employment right is controlled by government officials, who make the appearance of open examination on the surface, but the application conditions are that the candidates can speak Greek, have the experience of studying in Russia, and have the qualification of accounting certificate. This condition is almost tailor-made for the daughter of the official. It's time to say nothing about it.
+  
+
+
 
 
 
